@@ -1,1 +1,26 @@
+# Grundlegende Einstellungen
+name: Dein Name
+description: Beschreibung deines Portfolios
 
+# Konfiguration der Seiten
+theme: jekyll-theme-minimal
+title_separator: " - "
+
+# Social Media Links
+social:
+  - title: GitHub
+    url: https://github.com/ilyaskayihan
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ilyaskayihan
+
+# Navigation
+navbar_links:
+  - title: Über mich
+    url: /about
+  - title: Projekte
+    url: /projects
+  - title: Blog
+    url: /blog
+
+# Kontaktinformationen
+email: ilyas.kayihan@gmail.com
