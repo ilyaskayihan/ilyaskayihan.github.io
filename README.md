@@ -1,3 +1,16 @@
+# Blogeintrag - Selbstreflektion
+
+In den Ergebnissen meiner Selbstreflexion wird deutlich, dass ich mich vor allem in den Bereichen Kommunikationsfähigkeiten, Kundenorientierung und persönliche Entwicklung weiterentwickeln möchte.
+
+Kommunikationsfähigkeiten spielen eine zentrale Rolle in meiner beruflichen Entwicklung. Aktives Zuhören und die Fähigkeit, komplexe Informationen klar und verständlich zu vermitteln, sind entscheidend für den Erfolg in meinem beruflichen Umfeld.
+
+Darüber hinaus ist mir bewusst geworden, wie wichtig es ist, eine starke Kundenorientierung zu entwickeln. Die Bedürfnisse und Erwartungen der Kunden zu verstehen und sie bestmöglich zu erfüllen, stehen im Mittelpunkt einer erfolgreichen Geschäftsbeziehung.
+
+Neben diesen Fähigkeiten erkenne ich die Bedeutung einer kontinuierlichen persönlichen Entwicklung. Die Fähigkeit, herausfordernde Ziele zu setzen und diese mit Ausdauer und Entschlossenheit zu verfolgen, ist der Schlüssel, um mein volles Potenzial auszuschöpfen.
+
+Indem ich mich auf diese Bereiche konzentriere und kontinuierlich an meiner Weiterentwicklung arbeite, strebe ich danach, meine Fähigkeiten zu verbessern und meine beruflichen Ziele zu erreichen.
+
+
 # Lebenslauf
 
 Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit für Analyse und Interpretation verschiedenster Datensätze. Meine Leidenschaft für datengetriebene Entscheidungsfindung und meine Fähigkeit, komplexe Probleme zu lösen, machen mich zu einem wertvollen Mitglied für jedes datenorientierte Projektteam.
@@ -96,8 +109,8 @@ Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit 
   - PitStop Pro
   - InDesign
  
- 
- ## Projekte
+
+## Projekte
 
 - **Parcandi (Basel):**
   - Implementierung eines Vorhersagemodells für Parcandi mit dem Ziel, die Auslastung von Parkplätzen über einen Zeitraum von drei Wochen vorherzusagen.
