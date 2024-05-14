@@ -62,3 +62,32 @@ Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit 
 - Erworbene Fähigkeiten: Grundkenntnisse in IT-Verwaltung, Prozessbeobachtung oder Kommunikation mit IT-Profis
 - Erhöhte Leidenschaft für die Verfolgung einer Karriere in der IT
 
+
+## Skills
+
+### Sprachen
+- Deutsch (Muttersprache)
+- Englisch
+- Türkisch
+- Französisch
+
+### Programmiersprachen
+- **R:**
+  - Einführung und Anwendung in die Programmierung in R
+  - Datenanalysen in einem Team
+  - Datenvisualisierung
+  - Erstellung von statistischen Modellen
+  - Bereitschaft zur Teilnahme an Weiterbildungsprogrammen
+- **Python:**
+  - Erfahrung in der Verwendung für einfache Programmieraufgaben und Projekte
+  - Verwendung in akademischen Projekten (Datenanalyse und Automatisierungsaufgaben)
+  - Begeistert von meiner Weiterentwicklung der Fähigkeiten
+
+### Programme
+- Microsoft Office
+- Git
+- Adobe Photoshop
+- Blender
+- PitStop Pro
+- InDesign
+
