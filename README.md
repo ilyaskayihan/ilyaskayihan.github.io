@@ -1,4 +1,4 @@
-# Ilyas Kayihan - Data Scientist
+# Lebenslauf
 
 Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit für Analyse und Interpretation verschiedenster Datensätze. Meine Leidenschaft für datengetriebene Entscheidungsfindung und meine Fähigkeit, komplexe Probleme zu lösen, machen mich zu einem wertvollen Mitglied für jedes datenorientierte Projektteam.
 
