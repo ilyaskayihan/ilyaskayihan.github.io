@@ -5,14 +5,15 @@ description: Data Scientist
 show downloads: true
 # Konfiguration der Seiten
 theme: jekyll-theme-minimal
-##title_separator: " - "
+#title_separator: " - "
 
- Social Media Links
+# Social Media Links
 social:
   - title: GitHub
     url: https://github.com/ilyaskayihan
   - title: LinkedIn
     url: https://www.linkedin.com/in/ilyaskayihan
+
 
 # Navigation
 #navbar_links:
