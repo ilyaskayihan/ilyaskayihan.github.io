@@ -5,7 +5,7 @@ description: Data Scientist
 show downloads: true
 # Konfiguration der Seiten
 theme: jekyll-theme-minimal
-#title_separator: " - "
+##title_separator: " - "
 
 # Social Media Links
 #social:
