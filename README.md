@@ -12,6 +12,7 @@ Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit 
 ## Ausbildung
 
 ### Fachhochschule Nordwestschweiz (FHNW)
+#### Sep 2023 – aktuell
 - **Studiengang:** Bachelor in Data Science
 - **Beschreibung:**
   - Aktuell verfolge ich ein Studium in Data Science an der FHNW.
@@ -19,6 +20,7 @@ Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit 
   - Es beinhaltet auch industriegeführte Projekte, die praktische Erfahrungen bieten.
 
 ### Ludwig-Maximilians Universität München
+#### Okt 2021 – Aug 2023
 - **Studiengang:** Bachelor in Statistik und Data Science
 - **Beschreibung:**
   - Abgeschlossene Module in mathematischen Theorien wie Statistik, Analysis und Lineare Algebra.
@@ -45,18 +47,21 @@ Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit 
 ## Berufliche Laufbahn
 
 ### Xline AG (Brugg, Schweiz) - Medientechnologe
+#### Okt 2023 – Jan 2024
 - Verantwortlich für das Datenmanagement und die Qualitätskontrolle von Druckdaten
 - Anwendung von kritischem Denken und Problemlösungsfähigkeiten bei der Identifizierung und Behebung von Fehlern
 - Kapazitätsplanung der Ressourcen
 - Nachweisliche Fähigkeit zur schnellen Einarbeitung in neue Technologien und Fähigkeiten
 
 ### Garmin (Puchheim, Deutschland) - Retourenservice und Logistik-Bereich
+#### Jan 2023 – Aug 2023
 - Effektive Datenverwaltung und -analyse unter Verwendung von Excel für die Optimierung von Geschäftsprozessen
 - Fortgeschrittene Excel-Fähigkeiten, einschließlich der Anwendung von Pivot-Tabellen und Datenbankfunktionen
 - Zusammenarbeit mit IT-Teams zur Integration von Daten und zur Lösung technischer Herausforderungen
 - Fehler in Daten oder Tabellen erkennen und zu korrigieren
 
 ### MAN Truck & Bus (München, Deutschland) - Schülerpraktikum im IT Projektmanagement
+#### Feb 2016 – Jul 2016
 - Beobachtung und Mitarbeit bei IT-Projekten oder -Aufgaben
 - Interaktion mit IT-Experten und Mitarbeitern, um Einblicke in die IT-Abteilung zu gewinnen
 - Erworbene Fähigkeiten: Grundkenntnisse in IT-Verwaltung, Prozessbeobachtung oder Kommunikation mit IT-Profis
@@ -83,11 +88,25 @@ Ein hochmotivierter Data Science-Student voller Engagement und Entschlossenheit 
   - Verwendung in akademischen Projekten (Datenanalyse und Automatisierungsaufgaben)
   - Begeistert von meiner Weiterentwicklung der Fähigkeiten
 
-### Programme
-- Microsoft Office
-- Git
-- Adobe Photoshop
-- Blender
-- PitStop Pro
-- InDesign
+- **Programme:**
+  - Microsoft Office
+  - Git
+  - Adobe Photoshop
+  - Blender
+  - PitStop Pro
+  - InDesign
+ 
+ 
+ ## Projekte
+
+- **Parcandi (Basel):**
+  - Implementierung eines Vorhersagemodells für Parcandi mit dem Ziel, die Auslastung von Parkplätzen über einen Zeitraum von drei Wochen vorherzusagen.
+  - Verwendung von Monte-Carlo-Simulation und SARIMA (Seasonal Autoregressive Integrated Moving Average) Techniken für genaue Vorhersagen.
+  - Optimierung der Ressourcenallokation und Verbesserung der operationellen Effizienz des Unternehmens.
+
+- **Swissuniversities (Bern):**
+  - Untersuchung von Prüfungsdaten für Swissuniversities und Entwicklung und Implementierung von Data-Warehouse-Lösungen.
+  - Erweiterung des Oracle-DWH, um zusätzliche Daten aus Moodle zu integrieren.
+  - Ermittlung von Daten als Feedback für Studierende und Entwicklung eines Dashboards mit vordefinierten Berichten und Visualisierungen für Dozierende.
+
 
