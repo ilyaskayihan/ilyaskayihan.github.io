@@ -1,26 +1,27 @@
 # Grundlegende Einstellungen
-name: Ilyas Kayihan
+title: Ilyas Kayihan
+#logo: 
 description: Data Scientist
-
+show downloads: true
 # Konfiguration der Seiten
 theme: jekyll-theme-minimal
-title_separator: " - "
+#title_separator: " - "
 
 # Social Media Links
-social:
-  - title: GitHub
-    url: https://github.com/ilyaskayihan
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/ilyaskayihan
+#social:
+ # - title: GitHub
+#    url: https://github.com/ilyaskayihan
+#  - title: LinkedIn
+ #   url: https://www.linkedin.com/in/ilyaskayihan
 
 # Navigation
-navbar_links:
-  - title: Über mich
-    url: /about
-  - title: Projekte
-    url: /projects
-  - title: Blog
-    url: /blog
+#navbar_links:
+ # - title: Über mich
+  #  url: /about
+  #- title: Projekte
+   # url: /projects
+  #- title: Blog
+   # url: /blog
 
 # Kontaktinformationen
-email: ilyas.kayihan@gmail.com
+#email: ilyas.kayihan@gmail.com
